@@ -7,7 +7,7 @@ Var is the old method of declaring a variable in JavaScript while Let and Const 
 
 
 <h3>Pass By Value vs Pass By Reference? Why would you say a String is pass by value/ or a value type? Why is an object a reference type?</h3>
-pass by value is when the value of the function parameter is copied into another location and when accessing or modifying the variable within the function, only the copy is accessed/modified and the origninal value remains the same. Pass by reference passes the original variable into the function parameter and the result will modify the original variable. 
+pass by value is when the value of the function parameter is copied into another location and when accessing or modifying the variable within the function, only the copy is accessed/modified and the origninal value remains the same. Pass by reference passes the original variable into the function parameter and the result will modify the original variable. An object is a reference type because the place in memory of the boject is the one being accessed, not what is in the object. 
 
 
 <h3>What do Map , Filter and Reduce do? Do they mutate the array you call them on? </h3>
