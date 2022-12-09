@@ -20,19 +20,19 @@ pass by value is when the value of the function parameter is copied into another
 
 <h3>What are all the Falsey Values in JavaScript? Why do you think this is important to know?</h3>
 
-the number 0
-the BigInt 0n
-the keyword null
-the keyword undefined
-the boolean false
-the number NaN
-the empty string "" (equivalent to '' or `backticks`)
+the number 0 </br>
+the BigInt 0n </br>
+the keyword null </br>
+the keyword undefined </br>
+the boolean false </br>
+the number NaN </br>
+the empty string "" (equivalent to '' or `backticks`) </br>
 
-Falsey values are a way that JS deals with not crashing when a conditional is passed something other than a boolean value.
+Falsey values are a way that JS deals with not crashing when a conditional is passed that is something other than a boolean value.
 
 <h3>What are Async and Await?</h3>
 
-Basically, async accompanies a function with will return a promise and await waits until that promise settles and returns the result 
+Basically, async function with will return a promise and await waits until that promise settles and returns the result 
 
 <h3>What is an async function?</h3>
 
